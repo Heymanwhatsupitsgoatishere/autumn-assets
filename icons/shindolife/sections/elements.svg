@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-labelledby="title">
+  <title id="title">Elements</title>
+  <g fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 2.5 15 8l-3 2.2L9 8l3-5.5Z"/>
+    <path d="m21.5 12-5.5 3-2.2-3 2.2-3 5.5 3Z"/>
+    <path d="M12 21.5 9 16l3-2.2 3 2.2-3 5.5Z"/>
+    <path d="M2.5 12 8 9l2.2 3L8 15l-5.5-3Z"/>
+    <circle cx="12" cy="12" r="2.2"/>
+  </g>
+</svg>
