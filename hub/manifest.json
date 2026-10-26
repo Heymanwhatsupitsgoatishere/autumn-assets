@@ -25,288 +25,288 @@
 "size": 96444
 },
 "frames/angry.png": {
-"sha1": "c108e4db13d4",
-"size": 83968
+"sha1": "2fc96a90150a",
+"size": 82692
 },
 "frames/blink.png": {
-"sha1": "b38e023ff150",
-"size": 78184
+"sha1": "18fb99061867",
+"size": 77157
 },
 "frames/blushAway.png": {
-"sha1": "5cf312b7da0f",
-"size": 81969
+"sha1": "12a45cc8f518",
+"size": 80781
 },
 "frames/boop.png": {
-"sha1": "b19844cf57c8",
-"size": 79656
+"sha1": "bd1fe0001521",
+"size": 78505
 },
 "frames/denial.png": {
-"sha1": "e98e79c26c8f",
-"size": 83780
+"sha1": "faa0289938ab",
+"size": 82860
 },
 "frames/dizzy.png": {
-"sha1": "8f9e596d4a16",
-"size": 81840
+"sha1": "8d1fd46e95b9",
+"size": 80795
 },
 "frames/excited.png": {
-"sha1": "73a8982e9903",
-"size": 81954
+"sha1": "1121f8a93889",
+"size": 80761
 },
 "frames/flustered.png": {
-"sha1": "70a7172faf25",
-"size": 84982
+"sha1": "5f5fc9868945",
+"size": 83869
 },
 "frames/grumpy.png": {
-"sha1": "8be9366cf11f",
-"size": 80071
+"sha1": "0b5bfc416a11",
+"size": 79094
 },
 "frames/handL-hands.png": {
 "sha1": "3be15e7eb31d",
 "size": 2405
 },
 "frames/handL.png": {
-"sha1": "2abdff4ba769",
-"size": 80402
+"sha1": "f0ec5b02980d",
+"size": 79352
 },
 "frames/handR-hands.png": {
 "sha1": "b8ce650bb753",
 "size": 2455
 },
 "frames/handR.png": {
-"sha1": "cde9d2e5b2f5",
-"size": 80336
+"sha1": "4f5bcf356dc6",
+"size": 79306
 },
 "frames/huff.png": {
-"sha1": "2d78f393fa7a",
-"size": 79763
+"sha1": "c540dfb5649d",
+"size": 78784
 },
 "frames/laugh.png": {
-"sha1": "5b9e2c4c2ad2",
-"size": 81111
+"sha1": "97293369f85a",
+"size": 80094
 },
 "frames/lookDown.png": {
-"sha1": "8eca7e845e30",
-"size": 79556
+"sha1": "4394f5d11477",
+"size": 78445
 },
 "frames/lookL.png": {
-"sha1": "8a85c02023ab",
-"size": 79730
+"sha1": "2b4f5ab2cd11",
+"size": 78687
 },
 "frames/lookR.png": {
-"sha1": "77e7bd4d7782",
-"size": 79638
+"sha1": "ad304cd6abb6",
+"size": 78420
 },
 "frames/lookUp.png": {
-"sha1": "71bd10bb33b5",
-"size": 79647
+"sha1": "b11fe07a01cc",
+"size": 78389
 },
 "frames/mouth1.png": {
-"sha1": "8bfc6aa6213d",
-"size": 80122
+"sha1": "647fd0e1b767",
+"size": 78942
 },
 "frames/mouth2.png": {
-"sha1": "f125fedab69a",
-"size": 80543
+"sha1": "a32ef5e6da91",
+"size": 79460
 },
 "frames/mouth3.png": {
-"sha1": "caef8828cf81",
-"size": 81383
+"sha1": "d5f9fad4c5f6",
+"size": 80423
 },
 "frames/nervous.png": {
-"sha1": "e920e40a28c1",
-"size": 80942
+"sha1": "a516d4f2437a",
+"size": 79765
 },
 "frames/ow.png": {
-"sha1": "3aeb41efaae4",
-"size": 79536
+"sha1": "7cf4e65a7b6b",
+"size": 78523
 },
 "frames/pat.png": {
-"sha1": "10169c57ea0c",
-"size": 79631
+"sha1": "57a3a59ea9c6",
+"size": 78633
 },
 "frames/poke.png": {
-"sha1": "136bb6144c81",
-"size": 79825
+"sha1": "fcd72c1e30a3",
+"size": 78845
 },
 "frames/pout.png": {
-"sha1": "44c55d80557b",
-"size": 81188
+"sha1": "58f9ca2a8d9f",
+"size": 80078
 },
 "frames/shyGlance.png": {
-"sha1": "54f35061b11a",
-"size": 81367
+"sha1": "dc74918b4a96",
+"size": 80307
 },
 "frames/sleep.png": {
-"sha1": "0594fd15d2a3",
-"size": 78435
+"sha1": "f8006298683c",
+"size": 77387
 },
 "frames/smug.png": {
-"sha1": "6a3fd6e6ca00",
-"size": 80434
+"sha1": "cb70a9f20218",
+"size": 79454
 },
 "frames/squint.png": {
-"sha1": "10f22f3d0bf3",
-"size": 79440
+"sha1": "d887237a0b26",
+"size": 78214
 },
 "frames/wink.png": {
-"sha1": "bf46baaa534c",
-"size": 79082
+"sha1": "d95359882a99",
+"size": 77963
 },
 "frames/yawn.png": {
-"sha1": "b5d979cdfa2e",
-"size": 80881
+"sha1": "f86bb6d6b39e",
+"size": 79829
 },
 "icons3.png": {
 "sha1": "4bb74fe0e7e3",
 "size": 37075
 },
 "mascots/konata/base.png": {
-"sha1": "5e530f28b83d",
-"size": 107893
+"sha1": "c9fd6dc3147b",
+"size": 107473
 },
 "mascots/konata/frames/angry.png": {
-"sha1": "3bf8c064203f",
-"size": 109433
+"sha1": "d1ee974b08db",
+"size": 109539
 },
 "mascots/konata/frames/blink.png": {
-"sha1": "10333a650005",
-"size": 103993
+"sha1": "324473b5bee1",
+"size": 103699
 },
 "mascots/konata/frames/blushAway.png": {
-"sha1": "e3ad86e643f2",
-"size": 107631
+"sha1": "0eb8f89cf820",
+"size": 107507
 },
 "mascots/konata/frames/boop.png": {
-"sha1": "3ffe145ea463",
-"size": 106105
+"sha1": "45387c694c39",
+"size": 105901
 },
 "mascots/konata/frames/denial.png": {
-"sha1": "8b6e893ee407",
-"size": 108047
+"sha1": "445c3265e627",
+"size": 108071
 },
 "mascots/konata/frames/dizzy.png": {
-"sha1": "b448b5a9f033",
-"size": 108763
+"sha1": "aa901994bf04",
+"size": 108625
 },
 "mascots/konata/frames/excited.png": {
-"sha1": "877b77c72107",
-"size": 109010
+"sha1": "459c00177343",
+"size": 108979
 },
 "mascots/konata/frames/flustered.png": {
-"sha1": "2923f0e2c008",
-"size": 109729
+"sha1": "3bdbc3e12ffc",
+"size": 109591
 },
 "mascots/konata/frames/grumpy.png": {
-"sha1": "5f9f858b8d73",
-"size": 105810
+"sha1": "ade4c553e981",
+"size": 105853
 },
 "mascots/konata/frames/handL-hands.png": {
 "sha1": "b6ce31ba9ee0",
 "size": 3700
 },
 "mascots/konata/frames/handL.png": {
-"sha1": "055badd85b78",
-"size": 107311
+"sha1": "9b9e42b026fe",
+"size": 107045
 },
 "mascots/konata/frames/handR-hands.png": {
 "sha1": "a3bee6aabe35",
 "size": 2747
 },
 "mascots/konata/frames/handR.png": {
-"sha1": "75e4cca659b7",
-"size": 107330
+"sha1": "858d94818316",
+"size": 106883
 },
 "mascots/konata/frames/hover.png": {
-"sha1": "596520fafed2",
-"size": 108827
+"sha1": "cc654f8842a5",
+"size": 108712
 },
 "mascots/konata/frames/huff.png": {
-"sha1": "1854c9798959",
-"size": 105006
+"sha1": "a1233e2fa671",
+"size": 104691
 },
 "mascots/konata/frames/laugh.png": {
-"sha1": "62d6fe930538",
-"size": 107020
+"sha1": "c01f4fd65c71",
+"size": 106800
 },
 "mascots/konata/frames/lookDown.png": {
-"sha1": "43045acf4575",
-"size": 105602
+"sha1": "2b2b8dc33e87",
+"size": 105384
 },
 "mascots/konata/frames/lookL.png": {
-"sha1": "df0e2ea33574",
-"size": 105303
+"sha1": "1c3b420bd152",
+"size": 105153
 },
 "mascots/konata/frames/lookR.png": {
-"sha1": "b9c0db5b5372",
-"size": 105659
+"sha1": "e4250c1e18c9",
+"size": 105390
 },
 "mascots/konata/frames/lookUp.png": {
-"sha1": "fd492b5597f1",
-"size": 104987
+"sha1": "14eb04e5c573",
+"size": 104778
 },
 "mascots/konata/frames/mouth1.png": {
-"sha1": "27edca00d949",
-"size": 106986
+"sha1": "e47f33bfa00c",
+"size": 106848
 },
 "mascots/konata/frames/mouth2.png": {
-"sha1": "2c9501dd4fcc",
-"size": 107411
+"sha1": "1312f7f097ed",
+"size": 107283
 },
 "mascots/konata/frames/mouth3.png": {
-"sha1": "02046bc8ed5c",
-"size": 107493
+"sha1": "029ae66f00fd",
+"size": 107457
 },
 "mascots/konata/frames/nervous.png": {
-"sha1": "9a3dbd1b6d68",
-"size": 106961
+"sha1": "0913ee586ca0",
+"size": 106862
 },
 "mascots/konata/frames/ow.png": {
-"sha1": "bd478497a18d",
-"size": 105854
+"sha1": "2af168c07811",
+"size": 105783
 },
 "mascots/konata/frames/pat.png": {
-"sha1": "e775ddd26659",
-"size": 105985
+"sha1": "61cad32be830",
+"size": 105729
 },
 "mascots/konata/frames/poke.png": {
-"sha1": "d09491e445aa",
-"size": 105815
+"sha1": "4fd979856f31",
+"size": 105653
 },
 "mascots/konata/frames/pout.png": {
-"sha1": "c8e58598e9ff",
-"size": 106987
+"sha1": "a3a2ac0a8f9f",
+"size": 106861
 },
 "mascots/konata/frames/shyGlance.png": {
-"sha1": "60a999302056",
-"size": 107225
+"sha1": "86bea2eeb5de",
+"size": 107086
 },
 "mascots/konata/frames/sleep.png": {
-"sha1": "f49677bafa14",
-"size": 103995
+"sha1": "488b01673313",
+"size": 104112
 },
 "mascots/konata/frames/smug.png": {
-"sha1": "a1be278f846e",
-"size": 107225
+"sha1": "3c56fbe328e4",
+"size": 107156
 },
 "mascots/konata/frames/squint.png": {
-"sha1": "09e52d6f7895",
-"size": 105344
+"sha1": "dbf96e71a5ee",
+"size": 105069
 },
 "mascots/konata/frames/wink.png": {
-"sha1": "c1281c1ba03e",
-"size": 105595
+"sha1": "e0b9aa3ea554",
+"size": 105645
 },
 "mascots/konata/frames/yawn.png": {
-"sha1": "5e99807d26e7",
-"size": 104770
+"sha1": "54df435ea3da",
+"size": 104745
 },
 "mascots/konata/hands.png": {
 "sha1": "42e622dd8eef",
 "size": 4423
 },
 "mascots/konata/peek-shadow3.png": {
-"sha1": "4a1b69adc9ed",
-"size": 12748
+"sha1": "c2a6f0449a8a",
+"size": 12816
 },
 "mascots/konata/react-excited.png": {
 "sha1": "5347675cb403",
@@ -333,148 +333,148 @@
 "size": 27876
 },
 "mascots/lain/base.png": {
-"sha1": "7cab2aff8381",
-"size": 125601
+"sha1": "00f394071fcb",
+"size": 124750
 },
 "mascots/lain/frames/blink.png": {
-"sha1": "2ff0e6467fd5",
-"size": 120185
+"sha1": "aa1daf02cd9e",
+"size": 118905
 },
 "mascots/lain/frames/blushAway.png": {
-"sha1": "f4ed6997ee8b",
-"size": 128828
+"sha1": "4c7a5980b9d8",
+"size": 127563
 },
 "mascots/lain/frames/boop.png": {
-"sha1": "ef145fab2f54",
-"size": 125027
+"sha1": "daa29ecd27bc",
+"size": 123725
 },
 "mascots/lain/frames/denial.png": {
-"sha1": "4f1a114d7289",
-"size": 129909
+"sha1": "ed96aa7b49d4",
+"size": 128512
 },
 "mascots/lain/frames/dizzy.png": {
-"sha1": "ad943a3e51bf",
-"size": 127993
+"sha1": "9c67d0d6e299",
+"size": 126585
 },
 "mascots/lain/frames/excited.png": {
-"sha1": "b356dbaddf6a",
-"size": 127551
+"sha1": "4b687dad4057",
+"size": 126402
 },
 "mascots/lain/frames/flustered.png": {
-"sha1": "f9589608c807",
-"size": 131691
+"sha1": "1c2fd9ac0a33",
+"size": 130209
 },
 "mascots/lain/frames/grumpy.png": {
-"sha1": "2241ee2dcc14",
-"size": 124840
+"sha1": "57a3ae645183",
+"size": 123515
 },
 "mascots/lain/frames/handL-hands.png": {
 "sha1": "a327dbdccaca",
 "size": 5596
 },
 "mascots/lain/frames/handL.png": {
-"sha1": "c25d4706f2db",
-"size": 126371
+"sha1": "bc59fedf5e8c",
+"size": 125138
 },
 "mascots/lain/frames/handR-hands.png": {
 "sha1": "55031b9341e4",
 "size": 4102
 },
 "mascots/lain/frames/handR.png": {
-"sha1": "6676f8da63fd",
-"size": 125021
+"sha1": "305b66d05ea7",
+"size": 123770
 },
 "mascots/lain/frames/hover.png": {
-"sha1": "9e8fbea51773",
-"size": 129893
+"sha1": "4baabb44baf6",
+"size": 128598
 },
 "mascots/lain/frames/huff.png": {
-"sha1": "12b58cfb0fe0",
-"size": 123903
+"sha1": "c913675b6e4a",
+"size": 122537
 },
 "mascots/lain/frames/laugh.png": {
-"sha1": "6d29b3a0a69f",
-"size": 126249
+"sha1": "c61f030c75db",
+"size": 124935
 },
 "mascots/lain/frames/lookDown.png": {
-"sha1": "219d7fa69d2e",
-"size": 123869
+"sha1": "17282bfa6889",
+"size": 122499
 },
 "mascots/lain/frames/lookL.png": {
-"sha1": "9232a3c4bf32",
-"size": 123998
+"sha1": "ed18778b58af",
+"size": 122700
 },
 "mascots/lain/frames/lookR.png": {
-"sha1": "13aebd4c8eb2",
-"size": 124532
+"sha1": "c8e357dfc2f1",
+"size": 123288
 },
 "mascots/lain/frames/lookUp.png": {
-"sha1": "ede02c1159f9",
-"size": 124713
+"sha1": "a63f0f938027",
+"size": 123480
 },
 "mascots/lain/frames/mouth1.png": {
-"sha1": "295636359675",
-"size": 125205
+"sha1": "ce3ec6c3cf31",
+"size": 123911
 },
 "mascots/lain/frames/mouth2.png": {
-"sha1": "2de2d58781e7",
-"size": 126132
+"sha1": "04bd5426f209",
+"size": 124779
 },
 "mascots/lain/frames/mouth3.png": {
-"sha1": "975a0d150b84",
-"size": 127101
+"sha1": "4fb9d9f44bf7",
+"size": 125764
 },
 "mascots/lain/frames/nervous.png": {
-"sha1": "46a623291e8d",
-"size": 125035
+"sha1": "367ecafb29b4",
+"size": 124584
 },
 "mascots/lain/frames/ow.png": {
-"sha1": "1bdeb6803336",
-"size": 122379
+"sha1": "848df170d225",
+"size": 121123
 },
 "mascots/lain/frames/pat.png": {
-"sha1": "29a6c6b25be2",
-"size": 121902
+"sha1": "8941ca9b7808",
+"size": 120620
 },
 "mascots/lain/frames/poke.png": {
-"sha1": "f2e2062dbedd",
-"size": 123268
+"sha1": "6047d7039bf8",
+"size": 122048
 },
 "mascots/lain/frames/pout.png": {
-"sha1": "4ce976bd9f5e",
-"size": 124925
+"sha1": "55268ab36855",
+"size": 123502
 },
 "mascots/lain/frames/shyGlance.png": {
-"sha1": "50800c40d93d",
-"size": 127535
+"sha1": "b5c9ee885d70",
+"size": 126353
 },
 "mascots/lain/frames/sleep.png": {
-"sha1": "3f74b590ad93",
-"size": 120650
+"sha1": "2f432fa36c4f",
+"size": 119360
 },
 "mascots/lain/frames/smug.png": {
-"sha1": "2c8b081d7c7f",
-"size": 124199
+"sha1": "0e6b830a98d1",
+"size": 122856
 },
 "mascots/lain/frames/squint.png": {
-"sha1": "c8dac23f71fd",
-"size": 121464
+"sha1": "b4f5e6f017d9",
+"size": 120209
 },
 "mascots/lain/frames/wink.png": {
-"sha1": "123a35e22a12",
-"size": 123473
+"sha1": "94c79b1dd3bb",
+"size": 122102
 },
 "mascots/lain/frames/yawn.png": {
-"sha1": "d7a3da9cf8d1",
-"size": 124248
+"sha1": "ad26eae8b14c",
+"size": 122827
 },
 "mascots/lain/hands.png": {
 "sha1": "14d670920c4c",
 "size": 6948
 },
 "mascots/lain/peek-shadow3.png": {
-"sha1": "2d352961083e",
-"size": 12558
+"sha1": "35e9c0bc8875",
+"size": 12470
 },
 "mascots/lain/react-excited.png": {
 "sha1": "cc9ac27bbb52",
@@ -533,21 +533,21 @@
 "size": 8239
 },
 "tomoko-hover-c.png": {
-"sha1": "3c4ab87d9a04",
-"size": 81480
+"sha1": "7ef66c309137",
+"size": 80212
 },
 "tomoko-peek-shadow3.png": {
-"sha1": "81d722fe9df9",
-"size": 11070
+"sha1": "84ee680dde85",
+"size": 11046
 },
 "tomoko-sleepy-c.png": {
-"sha1": "bb5d8c485dc2",
-"size": 80215
+"sha1": "a6f224edb57d",
+"size": 79047
 },
 "tomoko-sleepy-hands.png": {
 "sha1": "b5b3e74d9be0",
 "size": 4308
 }
 },
-"version": 2
+"version": 3
 }
