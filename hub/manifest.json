@@ -160,9 +160,9 @@
 "sha1": "4bb74fe0e7e3",
 "size": 37075
 },
-"icons5.png": {
-"sha1": "ef4577c0f553",
-"size": 93448
+"icons6.png": {
+"sha1": "c737150b21e7",
+"size": 96028
 },
 "mascots/konata/base.png": {
 "sha1": "c9fd6dc3147b",
@@ -553,5 +553,5 @@
 "size": 4308
 }
 },
-"version": 5
+"version": 6
 }
